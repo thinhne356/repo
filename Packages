@@ -15,23 +15,6 @@ Author: Requis
 Depiction: https://tqm-mos.com/Classic/Info/com.tqm-mos.weatherx
 Name: WeatherX
 
-Package: com.tqm-mos.weatherx
-Version: 3.3
-Architecture: iphoneos-arm
-Maintainer: @tqmmos
-Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader, com.tqm-mos.stocksx
-Conflicts: com.ixmoe.1pwn.weatherx
-Filename: ./debs/com.tqm-mos.weatherx_3.3_iphoneos-arm_modified.deb
-Size: 83768
-MD5sum: 518ad1d6bd084d069f2c169bad56bd4b
-SHA1: 941f6b7d0b08e222940afc4ef32c49940b92a2ef
-SHA256: d8fa0402af4b316c20c77055c3ce2a81f125d305bcc5bbeb617213097b234c4c
-Section: Tweaks
-Description: x
-Author: Requis
-Depiction: https://tqm-mos.com/Classic/Info/com.tqm-mos.weatherx
-Name: WeatherX
-
 Package: com.tuanem.ytbackground
 Version: 1.1
 Architecture: iphoneos-arm
@@ -67,4 +50,56 @@ Author: Preloading <me@preloading.dev>
 Depiction: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
 Icon: file:///Library/PreferenceBundles/TubeReplacerPrefs.bundle/icon@full.png
 Name: TubeReplacer
+
+Package: vn.thinhne356.pvz199skipcbmor
+Version: 1.9.9
+Architecture: iphoneos-arm
+Maintainer: PhucNguyen
+Filename: ./debs/vn.thinhne356.pvz199skipcbmor_1.9.9_iphoneos-arm.deb
+Size: 72711740
+MD5sum: 95b9f629c9c8060b44eed1f29f710e30
+SHA1: ddfd0abde2ddbda2c2c4aa72ba14dc0520a95500
+SHA256: 9fc7ed608b2890db01c96d1e34859234b732ad1d3160bd18f2ea9c5d0820cbcc
+Section: Applications
+Description: Đóng gói từ IPA bởi PhucNguyenVlog
+Name: Pvz
+
+Package: vn.thinhne356.pvz199skipcbmorpo
+Version: 1.9.9
+Architecture: iphoneos-arm
+Maintainer: PhucNguyen
+Filename: ./debs/vn.thinhne356.pvz199skipcbmorpo_1.9.9_iphoneos-arm.deb
+Size: 72711762
+MD5sum: 6031b03df88046d3aac71c05b27a2aa8
+SHA1: 3c935ad260feb047cd1bdd588cda22d8e1af46ab
+SHA256: 2175504984afb6973486f301bd72a2deb0a1d537c384a8d31384c17a0cb8d7f2
+Section: Applications
+Description: Đóng gói từ IPA bởi PhucNguyenVlog
+Name: Pvz
+
+Package: vn.thinhne356.pvz199skipcbmorpocu
+Version: 1.9.9
+Architecture: iphoneos-arm
+Maintainer: PhucNguyen
+Filename: ./debs/vn.thinhne356.pvz199skipcbmorpocu_1.9.9_iphoneos-arm.deb
+Size: 72814710
+MD5sum: 21e9c416dea4c18f6a681006035846e1
+SHA1: b348b931bfd8ae601c6576e1aa8667b443df5f31
+SHA256: dff9a0aa2e4568acb81d7c2e304a4adcc28e4600e340f8697343d0cb65ea293c
+Section: Applications
+Description: Đóng gói từ IPA bởi PhucNguyenVlog
+Name: Pvz
+
+Package: vn.thinhne356.pvz199skipcbni
+Version: 1.9.9
+Architecture: iphoneos-arm
+Maintainer: PhucNguyen
+Filename: ./debs/vn.thinhne356.pvz199skipcbni_1.9.9_iphoneos-arm.deb
+Size: 72711734
+MD5sum: 5be1905ca7af91a9cad7d47736b8b04f
+SHA1: ad5891c080a79618f5a776d26d29af8f3a6f0604
+SHA256: 64c658638e927956e0414f69fc2d43634374a9afc1d98f1dc7be0a677f489954
+Section: Applications
+Description: Đóng gói từ IPA bởi PhucNguyenVlog
+Name: Pvz
 
