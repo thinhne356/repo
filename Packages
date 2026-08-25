@@ -51,6 +51,19 @@ Depiction: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
 Icon: file:///Library/PreferenceBundles/TubeReplacerPrefs.bundle/icon@full.png
 Name: TubeReplacer
 
+Package: ru.computershik.troubadour
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: PhucNguyen
+Filename: ./debs/ru.computershik.troubadour_1.3_iphoneos-arm.deb
+Size: 2382188
+MD5sum: c82ffd699ddb54f4100a3ab26cad9ef2
+SHA1: 318041525f870b999a00eaca31c0f84f15ce443c
+SHA256: ce53091e4263a571e073231b65c35d6dea9b75309f7287876e9a4c1715d92d81
+Section: Applications
+Description: Đóng gói từ IPA bởi PhucNguyenVlog
+Name: YouTubew
+
 Package: vn.thinhne356.pvz199skipcbmor
 Version: 1.9.9
 Architecture: iphoneos-arm
