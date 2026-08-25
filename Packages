@@ -1,0 +1,17 @@
+Package: com.tqm-mos.weatherx
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader, com.tqm-mos.stocksx
+Conflicts: com.ixmoe.1pwn.weatherx
+Filename: ./debs/com.tqm-mos.weatherx_3.3_iphoneos-arm.deb
+Size: 84090
+MD5sum: 5ef4c517bfa5dfd668a737c9648e4fa8
+SHA1: 9fe37eb4807452f5c3e3f4248a4a041b8c57f159
+SHA256: 83cc52d64d541e13b680d4c6ad1a2c5ef85c639f676a49f3e3f81ab9f57f7f19
+Section: Tweaks
+Description: Sửa lỗi ứng dụng thời tiết iOS từ iPhone OS 2 đến iOS 7, tiện ích thời tiết trong trung tâm thông báo và nhiệt độ trong ứng dụng đồng hồ iPad!
+Author: Requis
+Depiction: https://tqm-mos.com/Classic/Info/com.tqm-mos.weatherx
+Name: WeatherX
+
